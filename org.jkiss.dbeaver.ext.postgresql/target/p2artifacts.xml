@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.jkiss.dbeaver.ext.postgresql' version='2.1.160.202209230809'>
+    <properties size='6'>
+      <property name='artifact.size' value='1092684'/>
+      <property name='download.size' value='1092684'/>
+      <property name='maven-groupId' value='org.jkiss.dbeaver'/>
+      <property name='maven-artifactId' value='org.jkiss.dbeaver.ext.postgresql'/>
+      <property name='maven-version' value='2.1.160-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+</artifacts>
